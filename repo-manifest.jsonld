@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/nikvaessen/jiwer/commit/46f6364dcd4fdff9583c53dc00caf50399e9db37",
       "git:hexsha": "46f6364dcd4fdff9583c53dc00caf50399e9db37",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/nikvaessen/jiwer/commit/c7cb6af204be5696cbf92f942ec4a1114d4095df",
